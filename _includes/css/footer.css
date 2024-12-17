@@ -1,0 +1,44 @@
+.footer{
+  background-color: var(--gris);
+  display: grid;
+  place-items: center;
+  gap: 1em;
+  padding: 60px 20px 40px;
+}
+
+.footer div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer div a{
+  text-align: center;
+  border-bottom: 1px solid var(--principal);
+  max-width: 100%;
+  flex: 1 0 320px;
+  padding: 16px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-decoration: none;
+}
+
+.footer > img{
+  width: min(100%, 400px);
+}
+
+.footer small{
+  text-align: center;
+}
+
+.footer small b{
+  background: none;
+}
+
+.footer small a{
+  font-size: 14px;
+}

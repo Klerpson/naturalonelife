@@ -1,0 +1,18 @@
+<div class="carousel_container">
+  <div class="carousel">  
+    {% for item in site.data.fotos-contacto %}
+    <article class="item">
+      <a href="{{'categorias' | relative_url}}" title="Catálogo del juego agilizate">
+        <img src="{{item.img}}" loading="lazy" alt="{{item.alt}}">
+      </a>
+  </article>
+  {% endfor %}
+  {% for item in site.data.fotos-contacto %}
+  <article class="item">
+    <a href="{{'categorias' | relative_url}}" title="Catálogo del juego agilizate">
+      <img src="{{item.img}}" loading="lazy" alt="{{item.alt}}">
+    </a>
+  </article>
+  {% endfor %}
+  </div> 
+</div>
