@@ -1,12 +1,21 @@
 <section class="cta">
   <div class="wrapper">
-    <img src="{{'img/tratamiento-natural-bg-1.webp'}}" alt="Lorem ipsum" loading="lazy" class="imagen_izquierda">
+    <img src="{{ include.image1 | default: 'img/tratamiento-natural-bg-1.webp' | relative_url }}"
+      alt="{{ include.title | default: 'Consulta Natural One Life' }}" loading="lazy" class="imagen_izquierda">
     <div class="cta_texto flow">
-      <h2>CTA para solicitar una consulta</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe porro pariatur excepturi.</p>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi excepturi sequi libero tempore nihil saepe.</p>
+      <h2>{{ include.title | default: "¿Tu ritmo de vida no te permite sentirte saludable?" }}</h2>
+      <p>{{ include.description | default: "Entendemos qué es sentirse abrumado con tanta información que hay sobre
+        medicinas, productos y recetas. Sabemos también qué es buscar una solución 'real' libre de efectos secundarios y
+        que no afecte la rutina diaria." }}</p>
+      {% if include.description2 %}
+      <p>{{ include.description2 }}</p>
+      {% else %}
+      <p>¡Por eso estamos aquí! Nuestra meta es acompañarte en el camino para que puedas encontrar la solución
+        saludable, natural y sostenible que buscas.</p>
+      {% endif %}
       {% include boton_whatsapp.html %}
     </div>
-    <img src="{{'img/tratamiento-natural-bg-2.webp'}}" alt="Lorem ipsum" loading="lazy" class="imagen_derecha">
+    <img src="{{ include.image2 | default: 'img/tratamiento-natural-bg-2.webp' | relative_url }}"
+      alt="{{ include.title | default: 'Consulta Natural One Life' }}" loading="lazy" class="imagen_derecha">
   </div>
 </section>
