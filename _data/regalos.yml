@@ -1,15 +1,9 @@
-- titulo: Un título
-  url: "#"
-  p: Lorem, ipsum dolor sit amet consectetur adipisicing.
-- titulo: Un título
-  url: "#"
-  p: Lorem, ipsum dolor sit amet consectetur adipisicing.
-- titulo: Un título
-  url: "#"
-  p: Lorem, ipsum dolor sit amet consectetur adipisicing.
-- titulo: Un título
-  url: "#"
-  p: Lorem, ipsum dolor sit amet consectetur adipisicing.
-- titulo: Un título
-  url: "#"
-  p: Lorem, ipsum dolor sit amet consectetur adipisicing.
+- titulo: Los 10 hábitos diarios de autocuidado natural
+  url: "downloads/hbitos_diarios_de_autocuidado_natural_que_mejorarn_tu_bienestar_.pdf"
+  p: Transforma tu salud con 10 hábitos naturales que realmente funcionan. Esta guía te enseña las prácticas diarias más efectivas para fortalecer tu sistema inmune, aumentar tu energía y mejorar tu bienestar general. Son hábitos simples y poderosos que podrás integrar fácilmente en tu rutina, dándote resultados desde el primer día.
+- titulo: Recetas de remedios naturales caseros
+  url: "downloads/recetas_de_remedios_naturales.pdf"
+  p: Prepara tus propios remedios naturales con ingredientes que ya tienes en casa. Esta guía te muestra paso a paso las recetas más efectivas heredadas de la medicina ancestral, ahora respaldadas por la ciencia moderna. Son soluciones prácticas y económicas para malestares comunes, que podrás elaborar fácilmente en tu cocina, cuidando tu salud y la de tu familia de forma natural.
+- titulo: Reto de bienestar natural de 3 días
+  url: "downloads/el_reto_de_bienestar_natural.pdf"
+  p: Comienza tu camino hacia el bienestar natural con este reto de 3 días que cambiará tu forma de sentirte. Te guiaremos con pasos simples y efectivos para desintoxicar tu cuerpo, elevar tu energía y mejorar tu vitalidad de forma natural. Son solo 72 horas que te demostrarán lo increíble que puedes sentirte cuando le das a tu cuerpo lo que realmente necesita.

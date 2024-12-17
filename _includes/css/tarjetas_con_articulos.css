@@ -4,7 +4,7 @@
   gap: 1em;
   flex-wrap: wrap;
   li{
-    width: min(100%, 240px);
+    width: min(100%, 340px);
     display: grid;
     place-items: center;
     text-align: center;

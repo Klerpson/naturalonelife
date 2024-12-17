@@ -1,7 +1,9 @@
 .cta {
   background-color: var(--acento);
+  box-shadow: 0 0 0 100vmax var(--acento);
+  -webkit-clip-path: inset(0 -100vmax);
+  clip-path: inset(0 -100vmax);
 }
-
 .cta > div{
   display: grid;
   grid-template-columns: minmax(200px, 1fr) minmax(auto, 800px) minmax(200px, 1fr);

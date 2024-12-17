@@ -10,8 +10,8 @@ intro: Descarga y utiliza los archivos que tenemos para ti para que cuides de tu
 <section class="intro_secciones flow">
   <small>Regalos digitales</small>
   <h2>Descarga archivos digitales para el cuidado de la salud</h2>
-  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae consequatur dicta nulla provident repudiandae libero?</p>
-</section>
+  <p>Queremos compartir contigo herramientas valiosas que te ayudarán a mejorar tu salud naturalmente. Cada recurso ha sido creado pensando en brindarte soluciones prácticas y efectivas que puedas implementar desde casa.</p>
+</section> 
 <ul class="tarjeticas_articulos">
   {% for regalo in site.data.regalos %}
   <li>
@@ -22,3 +22,9 @@ intro: Descarga y utiliza los archivos que tenemos para ti para que cuides de tu
   </li>
   {% endfor %}
 </ul>
+
+{% include cta.html 
+  title="¿Necesitas ayuda para implementar estos consejos?"
+  description="Sabemos que a veces puede ser abrumador comenzar un nuevo camino hacia la salud natural. Por eso, además de estos recursos gratuitos, ofrecemos asesoría personalizada para guiarte paso a paso."
+  description2="Agenda una consulta gratuita y descubre cómo podemos ayudarte a alcanzar tu mejor versión de salud con métodos naturales y probados."
+%}
