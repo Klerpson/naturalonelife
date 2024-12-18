@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -29,7 +29,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -46,7 +46,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -61,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/ofertas</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -80,12 +80,12 @@
     
       <url>
         <loc>http://localhost:4000/promociones</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
         <image:image>
-          <image:loc>http://localhost:4000/img/regalos-natural-one-life.avif</image:loc>
+          <image:loc>http://localhost:4000/img/promociones-natural-one-life.avif</image:loc>
           <image:title>Foto de el logo de Natural One Life envuelto en un regalo</image:title>
         </image:image>
         
@@ -95,7 +95,7 @@
     
       <url>
         <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -110,7 +110,7 @@
     
       <url>
         <loc>http://localhost:4000/regalos</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -129,12 +129,12 @@
     
       <url>
         <loc>http://localhost:4000/visitas</loc>
-        <lastmod>2024-12-17T10:50:30-05:00</lastmod>
+        <lastmod>2024-12-18T11:01:17-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
         <image:image>
-          <image:loc>http://localhost:4000/img/regalos-natural-one-life.avif</image:loc>
+          <image:loc>http://localhost:4000/img/visitas-natural-one-life.avif</image:loc>
           <image:title>Foto de el logo de Natural One Life envuelto en un regalo</image:title>
         </image:image>
         

@@ -3,7 +3,7 @@ layout: transaccional
 title: Visitas a Domicilio | Tratamientos Naturales en Casa | Natural One Life
 description: Recibe tratamientos naturales con células madre en la comodidad de tu hogar. Nuestros especialistas te asesoran personalmente para garantizar los mejores resultados.
 h1: Tu salud natural, en la comodidad de tu hogar
-hero: img/regalos-natural-one-life.avif
+hero: img/visitas-natural-one-life.avif
 alt: Foto de el logo de Natural One Life envuelto en un regalo
 intro: Nuestros tratamientos naturales con células madre. Productos científicamente probados que te ayudan a recuperar tu salud de forma natural y duradera.
 ---
@@ -11,7 +11,7 @@ intro: Nuestros tratamientos naturales con células madre. Productos científica
 <main class="wrapper">
   <div class="tarjeta">
     <div>
-      <img src="{{'/img/about-home-natural-one-life.webp' | relative_url}}" alt="Asesoría personalizada en casa" loading="lazy" width="270" height="480">
+      <img src="{{'/img/natural-one-life-celulas-madre.avif' | relative_url}}" alt="Asesoría personalizada en casa" loading="lazy" width="270" height="480">
     </div>
     <div class="flow">
       <small>Una historia que cambió mi forma de ver la medicina natural</small>
@@ -46,17 +46,17 @@ intro: Nuestros tratamientos naturales con células madre. Productos científica
     
     <ul class="tarjeticas_articulos">
       <li>
-        <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Ahorro de tiempo" loading="lazy" width="148" height="148">
+        <img src="{{'img/tratamiento-natural-cientifico.avif' | relative_url }}" alt="Ahorro de tiempo" loading="lazy" width="148" height="148">
         <h3>Ahorra Tiempo</h3>
         <p>Sin filas, sin tráfico, sin esperas. Nosotros vamos a ti</p>
       </li>
       <li>
-        <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Atención personalizada" loading="lazy" width="148" height="148">
+        <img src="{{'img/natural-one-life-huila.avif' | relative_url }}" alt="Atención personalizada" loading="lazy" width="148" height="148">
         <h3>Atención Exclusiva</h3>
         <p>30 minutos dedicados solo a ti y tus necesidades</p>
       </li>
       <li>
-        <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Privacidad garantizada" loading="lazy" width="148" height="148">
+        <img src="{{'img/medicina-natural-natural-one-life.avif' | relative_url }}" alt="Privacidad garantizada" loading="lazy" width="148" height="148">
         <h3>Privacidad Total</h3>
         <p>Consulta tus inquietudes en la intimidad de tu hogar</p>
       </li>
@@ -75,7 +75,7 @@ intro: Nuestros tratamientos naturales con células madre. Productos científica
           <details class="faq-item">
             <summary class="faq-question">¿En qué zonas atienden?</summary>
             <div class="faq-answer">
-              Actualmente atendemos en toda el área metropolitana de Bogotá, Medellín, Cali y ciudades principales. Para otras zonas, consulta disponibilidad.
+              Actualmente atendemos en toda el área Pitalito-Huila y sus alrededores . Para otras zonas, consulta disponibilidad.
             </div>
           </details>
 
@@ -104,17 +104,12 @@ intro: Nuestros tratamientos naturales con células madre. Productos científica
     </div>
   </section>
 
-  <div class="cta">
-    <div class="wrapper">
-      <img src="{{'img/visita-antes.webp' | relative_url}}" alt="Antes de Natural One Life" class="imagen_izquierda">
-      
-      <div class="cta_texto">
-        <h2>¿Listo para recuperar tu salud sin salir de casa?</h2>
-        <p>Agenda tu primera visita hoy y obtén 50% de descuento en tu consulta inicial</p>
-        <a href="#" id="lead_whatsapp" class="boton boton_1" title="Agendar Primera Visita">¡Quiero mi visita con descuento!</a>
-      </div>
-      
-      <img src="{{'img/visita-despues.webp' | relative_url}}" alt="Después de Natural One Life" class="imagen_derecha">
-    </div>
-  </div>
 </main>
+{% include cta.html 
+  title="¿Necesitas ayuda para implementar estos consejos?"
+  description="Sabemos que a veces puede ser abrumador comenzar un nuevo camino hacia la salud natural. Por eso, además de estos recursos gratuitos, ofrecemos asesoría personalizada para guiarte paso a paso."
+  description2="Agenda una consulta gratuita y descubre cómo podemos ayudarte a alcanzar tu mejor versión de salud con métodos naturales y probados."
+  image1="img/medicamentos-naturales.avif"
+  image2="img/natural-one-life-pitalito.avif"
+
+%}

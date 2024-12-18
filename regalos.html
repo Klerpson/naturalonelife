@@ -15,7 +15,7 @@ intro: Descarga y utiliza los archivos que tenemos para ti para que cuides de tu
 <ul class="tarjeticas_articulos">
   {% for regalo in site.data.regalos %}
   <li>
-    <img src="{{'img/tratamiento-natural-cientifico.webp' | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
+    <img src="{{ regalo.img | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
     <h3>{{regalo.titulo}}</h3>
     <p>{{regalo.p}}</p>
     <a href="{{regalo.url}}" rel="nofollow noopener" class="boton boton_2">Descargar regalo</a>
@@ -27,4 +27,7 @@ intro: Descarga y utiliza los archivos que tenemos para ti para que cuides de tu
   title="¿Necesitas ayuda para implementar estos consejos?"
   description="Sabemos que a veces puede ser abrumador comenzar un nuevo camino hacia la salud natural. Por eso, además de estos recursos gratuitos, ofrecemos asesoría personalizada para guiarte paso a paso."
   description2="Agenda una consulta gratuita y descubre cómo podemos ayudarte a alcanzar tu mejor versión de salud con métodos naturales y probados."
+  image1="img/ofertas-medicina-natural.avif"
+  image2="img/celulas-madre-medicina-natural.avif"
+
 %}
