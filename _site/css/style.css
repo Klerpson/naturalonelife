@@ -976,6 +976,9 @@ nav {
   width: 200px;
   height: 200px;
 }
+#registros {
+  scroll-margin-top: 20px;
+}
 .buscador{
   position: relative;
   background-color: var(--complemento1);

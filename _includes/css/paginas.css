@@ -159,3 +159,6 @@
   width: 200px;
   height: 200px;
 }
+#registros {
+  scroll-margin-top: 20px;
+}
