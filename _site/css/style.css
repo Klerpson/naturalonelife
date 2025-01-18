@@ -745,6 +745,7 @@ nav {
       text-align: center;
       padding: 20px;
       border-radius: 12px;
+      max-width: 374px;
 
       &:nth-child(2){
         box-shadow: var(--shadow);
@@ -945,7 +946,13 @@ nav {
 
 /* Estilo para el efecto de expansión */
 .faq-item[open] .faq-answer {
-  animation: slideDown 0.3s ease-out;
+  -webkit-animation: slideDown 0.3s ease-out;
+          animation: slideDown 0.3s ease-out;
+}
+
+@-webkit-keyframes slideDown {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 @keyframes slideDown {
@@ -979,6 +986,8 @@ nav {
 #registros {
   scroll-margin-top: 20px;
 }
+
+
 .buscador{
   position: relative;
   background-color: var(--complemento1);
@@ -1036,6 +1045,56 @@ nav {
   text-decoration: none;
 }
 
+/* Aseguramos que el html tenga scroll suave */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Creamos el enlace de scroll up */
+#scroll-up {
+  position: fixed;
+  right: 16px;
+  bottom: 3em;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--principal);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  transition: all 300ms ease-in;
+  z-index: 5;
+  opacity: 0;
+  visibility: hidden;
+  text-decoration: none;
+}
+
+/* Mostramos el botón cuando la página ha scrolleado */
+:has(body > :first-child:not(:hover)) body:not(:hover):has(main:hover) #scroll-up {
+  opacity: 1;
+  visibility: visible;
+}
+
+#scroll-up:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+#scroll-up:active {
+  transform: scale(0.95);
+}
+
+/* Creamos la flecha usando pseudo-elementos */
+#scroll-up::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  border-left: 3px solid white;
+  border-top: 3px solid white;
+  transform: rotate(45deg);
+  margin-top: 4px;
+}
 .footer{
   background-color: var(--gris);
   display: grid;

@@ -14,6 +14,7 @@
       text-align: center;
       padding: 20px;
       border-radius: 12px;
+      max-width: 374px;
 
       &:nth-child(2){
         box-shadow: var(--shadow);
