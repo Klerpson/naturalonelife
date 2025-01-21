@@ -4,14 +4,11 @@
   
   
   
-    
-    {
-      
-      "title"    : "No tenemos este resultado. Mejor mira nuestra carta",
-      "url"      : ""
-      
-      } ,
   
+    {
+    
+    } ,
+
   
   
   
@@ -67,17 +64,6 @@
   
   
   
-  
-    {
-    
-    "title"    : "#clubgurcoff | Te damos la bienvenida a nuestros socios GurCoff",
-    "url"      : "/ofertas"
-    
-    } ,
-
-  
-  
-  
     
     {
       
@@ -105,17 +91,6 @@
     
     "title"    : "Promociones Natural One Life | Tratamientos Naturales con Células Madre",
     "url"      : "/promociones"
-    
-    } ,
-
-  
-  
-  
-  
-    {
-    
-    "title"    : "Conoce Natural One Life: proveedor de tratamientos naturales",
-    "url"      : "/quienes-somos"
     
     } ,
 

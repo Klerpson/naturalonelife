@@ -10,11 +10,24 @@
   
   
     
+      <url>
+        <loc>http://localhost:4000/404.html</loc>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        
+        <image:image>
+          <image:loc>http://localhost:4000/img/404.avif</image:loc>
+          <image:title>404</image:title>
+        </image:image>
+        
+      </url>
+    
   
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -29,7 +42,7 @@
     
       <url>
         <loc>http://localhost:4000/catalogo</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -46,7 +59,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -59,28 +72,13 @@
     
   
     
-      <url>
-        <loc>http://localhost:4000/ofertas</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        
-        <image:image>
-          <image:loc>http://localhost:4000/img/bienvenida.webp</image:loc>
-          <image:title>Fotografía de un productos premium en GurCoff</image:title>
-        </image:image>
-        
-      </url>
-    
-  
-    
   
     
   
     
       <url>
         <loc>http://localhost:4000/promociones</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -94,23 +92,8 @@
   
     
       <url>
-        <loc>http://localhost:4000/quienes-somos</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        
-        <image:image>
-          <image:loc>http://localhost:4000/img/gurcoff-vaso.webp</image:loc>
-          <image:title>Fotografía de un vaso GurCoff</image:title>
-        </image:image>
-        
-      </url>
-    
-  
-    
-      <url>
         <loc>http://localhost:4000/regalos</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         
@@ -129,7 +112,7 @@
     
       <url>
         <loc>http://localhost:4000/visitas</loc>
-        <lastmod>2025-01-21T11:13:40-05:00</lastmod>
+        <lastmod>2025-01-21T17:43:22-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
         

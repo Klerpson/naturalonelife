@@ -5,11 +5,29 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Jan 2025 11:13:40 -0500</lastBuildDate>
+    <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
+    <lastBuildDate>Tue, 21 Jan 2025 17:43:22 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.10.0</generator>
     
+    
+      <item>
+        <title></title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/img/404.avif" alt="404" />
+            
+            
+          ]]>
+        </description>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
+        <link>http://localhost:4000/404.html</link>
+        <guid isPermaLink="true">http://localhost:4000/404.html</guid>
+        
+        
+        
+      </item>
     
       <item>
         <title>#raticogurcoff es un regalo de nuestra heladería para decirte GRACIAS</title>
@@ -21,7 +39,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -39,7 +57,7 @@
             Conoce el catálogo de productos de Natural One Life: células madre, proteínas, vitaminas y más. Cuida tu salud naturalmente.
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/catalogo</link>
         <guid isPermaLink="true">http://localhost:4000/catalogo</guid>
         
@@ -55,7 +73,7 @@
             
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -73,27 +91,9 @@
             Compra tratamientos naturales con Natural One Life. Asesórate gratis para entender cómo cuidarte naturalmente. Escríbenos o pide tu tratamiento.
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>#clubgurcoff | Te damos la bienvenida a nuestros socios GurCoff</title>
-        <description>
-          <![CDATA[
-            
-            <img src="http://localhost:4000/img/bienvenida.webp" alt="Fotografía de un productos premium en GurCoff" />
-            
-            Ya eres socio o socia del #clubgurcoff. Ahora, aprovecha muy bien lo que hacemos cada semana para ayudarte a llegar lejos, tal como lo hicimos nosotros
-          ]]>
-        </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
-        <link>http://localhost:4000/ofertas</link>
-        <guid isPermaLink="true">http://localhost:4000/ofertas</guid>
         
         
         
@@ -109,27 +109,9 @@
             Descubre nuestros tratamientos naturales con células madre. Productos científicamente probados que te ayudan a recuperar tu salud de forma natural y duradera.
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/promociones</link>
         <guid isPermaLink="true">http://localhost:4000/promociones</guid>
-        
-        
-        
-      </item>
-    
-      <item>
-        <title>Conoce Natural One Life: proveedor de tratamientos naturales</title>
-        <description>
-          <![CDATA[
-            
-            <img src="http://localhost:4000/img/gurcoff-vaso.webp" alt="Fotografía de un vaso GurCoff" />
-            
-            Ven y conocer quiénes somos en la heladería GurCoff y cómo hemos logrado ser los mejores de la zona donde abrimos nuestras sucursales
-          ]]>
-        </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
-        <link>http://localhost:4000/quienes-somos</link>
-        <guid isPermaLink="true">http://localhost:4000/quienes-somos</guid>
         
         
         
@@ -145,7 +127,7 @@
             En Natural One Life queremos regalarte guías, audios, videos, recomendaciones y más; para que cuides de tu salud. ¡Descárgalos!
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/regalos</link>
         <guid isPermaLink="true">http://localhost:4000/regalos</guid>
         
@@ -161,7 +143,7 @@
             
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -177,7 +159,7 @@
             
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -193,7 +175,7 @@
             
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         
@@ -211,7 +193,7 @@
             Recibe tratamientos naturales con células madre en la comodidad de tu hogar. Nuestros especialistas te asesoran personalmente para garantizar los mejores resultados.
           ]]>
         </description>
-        <pubDate>Tue, 21 Jan 2025 11:13:40 -0500</pubDate>
+        <pubDate>Tue, 21 Jan 2025 17:43:22 -0500</pubDate>
         <link>http://localhost:4000/visitas</link>
         <guid isPermaLink="true">http://localhost:4000/visitas</guid>
         
