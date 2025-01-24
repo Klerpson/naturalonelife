@@ -1,59 +1,348 @@
 Huesos:
-  - img: img/catalogo/creatina-natural-one-life.avif
-    alt: Descripción de la imagen
-    title: Producto de Natural One Life
-    titulo: Producto de Natural One Life
+  - img: img/catalogo/producto-shake.avif
+    alt: Producto shake de Natural One Life
+    title: Producto Shake de Natural One Life
+    titulo: Shake
     descripcion: Producto de Natural One Life
     beneficios:
-      - beneficio1: Un beneficio para explicar al cliente
-      - beneficio2: Un beneficio para explicar al cliente
-      - beneficio3: Un beneficio para explicar al cliente
-  - img: img/catalogo/creatina-natural-one-life.avif
-    alt: Descripción de la imagen
-    title: Producto de Natural One Life
-    titulo: Producto de Natural One Life
-    descripcion: Producto de Natural One Life
-    beneficios:
-      - beneficio1: Un beneficio para explicar al cliente
-      - beneficio2: Un beneficio para explicar al cliente
-      - beneficio3: Un beneficio para explicar al cliente
-  - img: img/catalogo/creatina-natural-one-life.avif
-    alt: Descripción de la imagen
-    title: Producto de Natural One Life
-    titulo: Producto de Natural One Life
-    descripcion: Producto de Natural One Life
-    beneficios:
-      - beneficio1: Un beneficio para explicar al cliente
-      - beneficio2: Un beneficio para explicar al cliente
-      - beneficio3: Un beneficio para explicar al cliente
+      - beneficio1: Desarrollado para personas de la tercera edad con problemas de huesos, músculos,tendones y cartílagos
+      - beneficio2: Gracias a su concentración alta en cartílago de tiburón es excelente para tratar y prevenir la osteoporosis artritis y artrosis
+      - beneficio3: Rico en vitamina D3 que ayuda a la absorción de nutrientes en nuestro sistema oseo
 
-Piel:
-  - img: img/catalogo/creatina-natural-one-life.avif
-    alt: Descripción de la imagen
-    title: Producto de Natural One Life
-    titulo: Producto de Natural One Life
-    descripcion: Producto de Natural One Life
+  - img: img/catalogo/producto-colageno.avif
+    alt: Producto colageno de Natural One Life
+    title: Producto colageno de Natural One Life
+    titulo: Colageno
+    descripcion: Producto colageno de Natural One Life
     beneficios:
-      - beneficio1: Un beneficio para explicar al cliente
-      - beneficio2: Un beneficio para explicar al cliente
-      - beneficio3: Un beneficio para explicar al cliente
-  - img: img/catalogo/creatina-natural-one-life.avif
-    alt: Descripción de la imagen
-    title: Producto de Natural One Life
-    titulo: Producto de Natural One Life
-    descripcion: Producto de Natural One Life
-    beneficios:
-      - beneficio1: Un beneficio para explicar al cliente
-      - beneficio2: Un beneficio para explicar al cliente
-      - beneficio3: Un beneficio para explicar al cliente
+      - beneficio1: Potente regenerador celular
+      - beneficio2: Excelente para producir el líquido sinovial de las articulaciones
+      - beneficio3: Fortalece el sistema óseo y muscular
 
-Cabello:
-  - img: img/catalogo/creatina-natural-one-life.avif
-    alt: Descripción de la imagen
-    title: Producto de Natural One Life
-    titulo: Producto de Natural One Life
-    descripcion: Producto de Natural One Life
+  - img: img/catalogo/producto-reumenx.avif
+    alt: Producto reumenx de Natural One Life
+    title: Producto reumenx de Natural One Life
+    titulo: Reumenx
+    descripcion: Producto reumenx de Natural One Life
     beneficios:
-      - beneficio1: Un beneficio para explicar al cliente
-      - beneficio2: Un beneficio para explicar al cliente
-      - beneficio3: Un beneficio para explicar al cliente
+      - beneficio1: Esta crema está diseñada para tratar eficazmente problemas ortopédicos como osteoartritis artritis reumatoidea tendinitis entre otros
+      - beneficio2: Recomendada para dolores musculares golpes morados y heridas
+      - beneficio3: Contiene ingredientes con propiedades antiinflamatorias que penetran fácilmente en la piel
+
+  - img: img/catalogo/producto-dcal.avif
+    alt: Producto Dcal de Natural One Life
+    title: Producto Dcal de Natural One Life
+    titulo: Dcal
+    descripcion: Producto Dcal de Natural One Life
+    beneficios:
+      - beneficio1: Calcio líquido rico en magnesio zinc y cartílago de tiburón
+      - beneficio2: Excelente para contrarrestar la osteoporosis la artrosis y la artritis
+      - beneficio3: Rico en vitamina D3 que ayuda a la fácil absorción de nutrientes en el cuerpo
+
+Musculos:
+  - img: img/catalogo/whey-protein.avif
+    alt: Producto Whey Protein de Natural One Life
+    title: Producto Whey Protein de Natural One Life
+    titulo: Whey Protein
+    descripcion: Producto Whey Protein de Natural One Life
+    beneficios:
+      - beneficio1: Es una excelente proteína de alta efectividad diseñada para personas en ciclo de volumen o que desean aumentar su masa muscular
+      - beneficio2: Contiene una cantidad significativa de BCAA, glutamina y taurina para mejores resultados en el proceso de crecimiento
+      - beneficio3: Recomendado para la síntesis de proteínas y evitar la fatiga en el entrenamiento
+
+  - img: img/catalogo/creatina-natural-one-life.avif
+    alt: Producto Creatina de Natural One Life
+    title: Producto Creatina de Natural One Life
+    titulo: Creatina
+    descripcion: Producto Creatina de Natural One Life
+    beneficios:
+      - beneficio1: Su fórmula a base de micronutrientes y creatina kre- Alkalyn y creatina monohidratada fomenta un desarrollo muscular acelerado
+      - beneficio2: Ideal para personas que desean tonificar y marcar los músculos ya que es baja en grasas saturadas y calorías
+      - beneficio3: Facilita la recuperación muscular después de entrenar
+
+  - img: img/catalogo/producto-sure-fib.avif
+    alt: Producto Sure Fib de Natural One Life
+    title: Producto Sure Fib de Natural One Life
+    titulo: Sure Fib
+    descripcion: Producto Sure Fib de Natural One Life
+    beneficios:
+      - beneficio1: Fibra especialmente diseñada para personas con problemas digestivos y de colon
+      - beneficio2: Ayuda a los movimientos peristálticos del intestino actuando como regulador digestivo
+      - beneficio3: Ayuda a bajar de peso de forma natural
+
+Sistema Digestivo:
+  - img: img/catalogo/producto-klndola.avif
+    alt: Producto Klndola de Natural One Life
+    title: Producto Klndola de Natural One Life
+    titulo: Klndola
+    descripcion: Producto Klndola de Natural One Life
+    beneficios:
+      - beneficio1: Es un potente cicatrizante interno
+      - beneficio2: Posee propiedades antiinflamatorias y antimicrobianas
+      - beneficio3: Ayuda a la gastritis, colitis, golpes y contusiones
+
+  - img: img/catalogo/producto-rn-lit.avif
+    alt: Producto RN-LIT de Natural One Life
+    title: Producto RN-LIT de Natural One Life
+    titulo: RN-LIT
+    descripcion: Producto RN-LIT de Natural One Life
+    beneficios:
+      - beneficio1: Excelente producto para solucionar problemas digestivos
+      - beneficio2: Trata la gastritis vómitos y acidez estomacal
+      - beneficio3: Recomendado para problemas de esofagitis y las flatulencias
+
+  - img: img/catalogo/producto-bilax.avif
+    alt: Producto Bilax de Natural One Life
+    title: Producto Bilax de Natural One Life
+    titulo: Bilax
+    descripcion: Producto Bilax de Natural One Life
+    beneficios:
+      - beneficio1: Desparasitante natural ideal para eliminar parásitos amebas y lombrices
+      - beneficio2: Laxante suave ideal para depuración y evacuación del intestino
+      - beneficio3: Elimina líquidos y toxinas retenidas en el cuerpo
+
+  - img: img/catalogo/producto-ebsam.avif
+    alt: Producto EBSAM de Natural One Life
+    title: Producto EBSAM de Natural One Life
+    titulo: EBSAM
+    descripcion: Producto EBSAM de Natural One Life
+    beneficios:
+      - beneficio1: Potente fibra líquida ideal para combatir problemas de colon
+      - beneficio2: Promueve una sana digestión eliminando el estreñimiento
+      - beneficio3: Mitiga flatulencias, espasmos estomacales y colitis
+
+  - img: img/catalogo/producto-lina-day.avif
+    alt: Producto Lina Day de Natural One Life
+    title: Producto Lina Day de Natural One Life
+    titulo: Lina Day
+    descripcion: Producto Lina Day de Natural One Life
+    beneficios:
+      - beneficio1: La fibra soluble de linaza impide acumulación de colesterol
+      - beneficio2: Ayuda a bajar de peso naturalmente
+      - beneficio3: Posee propiedades antioxidantes gracias al té verde
+
+Sistema Circulatorio:
+  - img: img/catalogo/producto-sngbl.avif
+    alt: Producto SNGBL de Natural One Life
+    title: Producto SNGBL de Natural One Life
+    titulo: SNGBL
+    descripcion: Producto SNGBL de Natural One Life
+    beneficios:
+      - beneficio1: Excelente cardiotónico e hipotensor
+      - beneficio2: Contienen nitratos que ayudan a dilatar los vasos sanguíneos mejorando el flujo sanguíneo y bajando la presión arterial
+      - beneficio3: Diurético natural y fortalece el sistema cardiovascular
+
+  - img: img/catalogo/producto-uncaton.avif
+    alt: Producto Uncaton de Natural One Life
+    title: Producto Uncaton de Natural One Life
+    titulo: Uncaton
+    descripcion: Producto Uncaton de Natural One Life
+    beneficios:
+      - beneficio1: Excelente coagulante sanguíneo natural para mejorar la circulación
+      - beneficio2: Es un coayudante en caso de dolor en las piernas y las venas varices
+      - beneficio3: Combate toda clase de problemas vasculares
+
+  - img: img/catalogo/producto-gcdek.avif
+    alt: Producto GCDEK de Natural One Life
+    title: Producto GCDEK de Natural One Life
+    titulo: GCDEK
+    descripcion: Producto GCDEK de Natural One Life
+    beneficios:
+      - beneficio1: Potente depurador sanguíneo
+      - beneficio2: Ayuda eliminar metales pesados y toxinas de la sangre
+      - beneficio3: Excelente para tratar la halitosis y amargosidad en la boca
+
+  - img: img/catalogo/producto-clrfx.avif
+    alt: Producto CLRFX de Natural One Life
+    title: Producto CLRFX de Natural One Life
+    titulo: CLRFX
+    descripcion: Producto CLRFX de Natural One Life
+    beneficios:
+      - beneficio1: Potente oxigenador de la sangre
+      - beneficio2: Aumenta la producción de hemoglobina fortaleciendo las células
+      - beneficio3: Mejora la salud cardiovascular
+
+Sistema Nervioso:
+  - img: img/catalogo/producto-valpas.avif
+    alt: Producto Val-Pas de Natural One Life
+    title: Producto Val-Pas de Natural One Life
+    titulo: Val-Pas
+    descripcion: Producto Val-Pas de Natural One Life
+    beneficios:
+      - beneficio1: Excelente estabilizante del sistema nervioso
+      - beneficio2: Ayuda a tratar neuralgias, migraña, insomnio y dolor de cabeza
+      - beneficio3: Controla niveles de cortisol y actúa como relajante muscular
+  - img: img/catalogo/producto-cltina.avif
+    alt: Producto CITINA de Natural One Life
+    title: Producto CITINA de Natural One Life
+    titulo: CITINA
+    descripcion: Producto CITINA de Natural One Life
+    beneficios:
+    - beneficio1: Multivitamínico en jarabe con alto contenido en fósforo
+    - beneficio2: Ideal para cansancio físico y cerebral
+    - beneficio3: Ayuda con pérdida de memoria y concentración
+
+  - img: img/catalogo/producto-tiamina.avif
+    alt: Producto Tiamina de Natural One Life
+    title: Producto Tiamina de Natural One Life
+    titulo: Tiamina
+    descripcion: Producto Tiamina de Natural One Life
+    beneficios:
+      - beneficio1: Ayuda a mantener la salud de las neuronas
+      - beneficio2: Contribuye a prevenir enfermedades neurodegenerativas
+      - beneficio3: Ayuda a la síntesis de neurotransmisores y función cognitiva
+
+  - img: img/catalogo/producto-piridoxina.avif
+    alt: Producto Piridoxina de Natural One Life
+    title: Producto Piridoxina de Natural One Life
+    titulo: Piridoxina
+    descripcion: Producto Piridoxina de Natural One Life
+    beneficios:
+      - beneficio1: Excelente para la síntesis de neurotransmisores como serotonina y dopamina
+      - beneficio2: Recomendada para trastornos neurológicos
+      - beneficio3: Actúa como regulador hormonal en mujeres
+
+Sistema Urinario:
+  - img: img/catalogo/producto-chankpdra.avif
+    alt: Producto Chankpdra de Natural One Life
+    title: Producto Chankpdra de Natural One Life
+    titulo: Chankpdra
+    descripcion: Producto Chankpdra de Natural One Life
+    beneficios:
+      - beneficio1: Antibiótico renal y depurador de los riñones
+      - beneficio2: Antiinflamatorio y diurético
+      - beneficio3: Coayudante con el desvanecimiento de cálculos y abscesos
+
+  - img: img/catalogo/producto-nfrx.avif
+    alt: Producto NFRX de Natural One Life
+    title: Producto NFRX de Natural One Life
+    titulo: NFRX
+    descripcion: Producto NFRX de Natural One Life
+    beneficios:
+      - beneficio1: Excelente coagulante sanguíneo natural que mejora la circulación
+      - beneficio2: Es un coayudante en caso de dolor en piernas y venas varices
+      - beneficio3: Combate toda clase de problemas vasculares
+
+Sistema Inmunológico:
+  - img: img/catalogo/producto-acido-ascorbico.avif
+    alt: Producto Ácido Ascórbico de Natural One Life
+    title: Producto Ácido Ascórbico de Natural One Life
+    titulo: Ácido Ascórbico
+    descripcion: Producto Ácido Ascórbico de Natural One Life
+    beneficios:
+      - beneficio1: Potente vitamina C que neutraliza radicales libres
+      - beneficio2: Excelente para la síntesis de colágeno
+      - beneficio3: Mejora la absorción de hierro y previene la anemia
+
+  - img: img/catalogo/producto-hmton.avif
+    alt: Producto HMTON de Natural One Life
+    title: Producto HMTON de Natural One Life
+    titulo: HMTON
+    descripcion: Producto HMTON de Natural One Life
+    beneficios:
+      - beneficio1: Multivitamínico para niños en crecimiento y desarrollo
+      - beneficio2: Alta concentración de vitaminas para desarrollo muscular y óseo
+      - beneficio3: Estimula las conexiones neuronales del cerebro
+
+  - img: img/catalogo/producto-ferro-b12.avif
+    alt: Producto Ferro B12 de Natural One Life
+    title: Producto Ferro B12 de Natural One Life
+    titulo: Ferro B12
+    descripcion: Producto Ferro B12 de Natural One Life
+    beneficios:
+      - beneficio1: Contiene vitaminas y minerales para tratar la anemia
+      - beneficio2: Ayuda a la falta de apetito y la anorexia
+      - beneficio3: Fórmula patentada para el cansancio y glóbulos rojos bajos
+
+Sistema Reproductivo:
+  - img: img/catalogo/producto-megabul.avif
+    alt: Producto Megabul de Natural One Life
+    title: Producto Megabul de Natural One Life
+    titulo: Megabul
+    descripcion: Producto Megabul de Natural One Life
+    beneficios:
+      - beneficio1: Potente multivitamínico para deportistas y alta actividad física
+      - beneficio2: Combate problemas de anemia y bajo peso
+      - beneficio3: Evita el entumecimiento de brazos y piernas
+
+  - img: img/catalogo/producto-prstrnl.avif
+    alt: Producto PRSTRNL de Natural One Life
+    title: Producto PRSTRNL de Natural One Life
+    titulo: PRSTRNL
+    descripcion: Producto PRSTRNL de Natural One Life
+    beneficios:
+      - beneficio1: Producto patentado para el funcionamiento de la próstata
+      - beneficio2: Reduce la inflamación de la glándula prostática
+      - beneficio3: Previene el cáncer de próstata
+
+  - img: img/catalogo/producto-frfm.avif
+    alt: Producto FRFM de Natural One Life
+    title: Producto FRFM de Natural One Life
+    titulo: FRFM
+    descripcion: Producto FRFM de Natural One Life
+    beneficios:
+      - beneficio1: Alivia el dolor de los síntomas menstruales
+      - beneficio2: Trata los síntomas de la menopausia
+      - beneficio3: Ayuda a desvanecer quistes ováricos y miomas en la matriz
+
+Sistema Linfático y Endocrino:
+  - img: img/catalogo/producto-moringa.avif
+    alt: Producto Moringa de Natural One Life
+    title: Producto Moringa de Natural One Life
+    titulo: Moringa
+    descripcion: Producto Moringa de Natural One Life
+    beneficios:
+      - beneficio1: Producto patentado para diabéticos
+      - beneficio2: Reduce niveles de glucosa mejorando sensibilidad a la insulina
+      - beneficio3: Excelente antiinflamatorio y rico en fibra
+
+  - img: img/catalogo/producto-nut-plex.avif
+    alt: Producto Nut-Plex de Natural One Life
+    title: Producto Nut-Plex de Natural One Life
+    titulo: Nut-Plex
+    descripcion: Producto Nut-Plex de Natural One Life
+    beneficios:
+      - beneficio1: Malteada con proteína de calostro y factores de transferencia
+      - beneficio2: Fortalece el sistema inmune
+      - beneficio3: Mejora la salud intestinal con probióticos
+
+  - img: img/catalogo/producto-zazen.avif
+    alt: Producto Zazen de Natural One Life
+    title: Producto Zazen de Natural One Life
+    titulo: Zazen
+    descripcion: Producto Zazen de Natural One Life
+    beneficios:
+      - beneficio1: Excelente para bajar de peso naturalmente
+      - beneficio2: Contiene enzimas digestivas que facilitan la digestión
+      - beneficio3: Tiene propiedades diuréticas que eliminan líquidos retenidos
+
+  - img: img/catalogo/producto-garcinia.avif
+    alt: Producto Garcinia Cambogia de Natural One Life
+    title: Producto Garcinia Cambogia de Natural One Life
+    titulo: Garcinia Cambogia
+    descripcion: Producto Garcinia Cambogia de Natural One Life
+    beneficios:
+      - beneficio1: Rica en ácido hidroxicítrico que acelera el metabolismo de grasas
+      - beneficio2: Efecto saciante que ayuda a controlar la ansiedad
+      - beneficio3: Transforma la grasa en energía aumentando resistencia
+
+  - img: img/catalogo/producto-acido-folico.avif
+    alt: Producto Ácido Fólico de Natural One Life
+    title: Producto Ácido Fólico de Natural One Life
+    titulo: Ácido Fólico
+    descripcion: Producto Ácido Fólico de Natural One Life
+    beneficios:
+    - beneficio1: Estimula el crecimiento en niños ayudando a la síntesis de ADN
+    - beneficio2: Previene enfermedades degenerativas y crónicas
+    - beneficio3: Contribuye a crear nuevas células y tejidos
+
+Sistema Celular:
+  - img: img/catalogo/producto-biomx.avif
+    alt: Producto BIOMX de Natural One Life
+    title: Producto BIOMX de Natural One Life
+    titulo: BIOMX
+    descripcion: Producto BIOMX de Natural One Life
+    beneficios:
+      - beneficio1: Capacidad regenerativa y de renovación de tejidos
+      - beneficio2: Versatilidad biológica para mantener vitalidad corporal
+      - beneficio3: Potencial terapéutico para el bienestar general

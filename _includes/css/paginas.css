@@ -30,42 +30,60 @@
   box-shadow: var(--shadow);
 }
 
-.post{
+.post {
   padding: 2em 0;
-  h2{
+  
+  h2 {
     margin-bottom: 2em;
   }
 
-  & > div{
+  & > div {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 500px), 1fr));
     gap: 2em 1em;
     
-    .tarjeta{
-      &:nth-child(even){
-        flex-direction: row-reverse;
+    .tarjeta {
+      display: flex;
+      flex-direction: column; /* Por defecto, apila los elementos */
+      
+      @media (min-width: 768px) { /* En pantallas medianas y grandes */
+        flex-direction: row;
+        
+        &:nth-child(even) {
+          flex-direction: row-reverse;
+        }
+        
+        & > div {
+          flex: 1; /* Distribuye el espacio equitativamente */
+        }
       }
 
-      div h3{
-        color: var(--secundario)
+      img {
+        width: 100%;
+        height: auto;
+        -o-object-fit: cover;
+           object-fit: cover;
       }
 
-      div ul{
+      div h3 {
+        color: var(--secundario);
+      }
+
+      div ul {
         padding: 12px 0;
         display: grid;
-        li{
+        li {
           max-width: 100%;
           text-align: left;
         }
       }
 
-      div .boton{
+      div .boton {
         margin: 4px 0 0;
       }
     }
   }
 }
-
 .post.hide{
   display: none;
 
