@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
-    <lastBuildDate>Thu, 23 Jan 2025 19:31:48 -0500</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2025 19:41:07 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.10.0</generator>
     
@@ -21,7 +21,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/404.html</link>
         <guid isPermaLink="true">http://localhost:4000/404.html</guid>
         
@@ -39,7 +39,7 @@
             Venir a GurCoff es pasar un ratico delicioso. Esos es esta sección. Un ratico para decirte gracias regalándote mucho de nosotros para ayudarte
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/blog</link>
         <guid isPermaLink="true">http://localhost:4000/blog</guid>
         
@@ -52,12 +52,12 @@
         <description>
           <![CDATA[
             
-            <img src="http://localhost:4000/img/catalogo-natural-one-life.avif" alt="Foto de productos de Natural One Life" />
+            <img src="http://localhost:4000/img/catalogo-natural-one-life.avif" alt="Catálogo de productos naturales y suplementos Natural One Life" />
             
-            Conoce el catálogo de productos de Natural One Life: células madre, proteínas, vitaminas y más. Cuida tu salud naturalmente.
+            Descubre nuestro catálogo completo de productos naturales para cada sistema de tu cuerpo: huesos, músculos, sistema digestivo, circulatorio y más.
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/catalogo</link>
         <guid isPermaLink="true">http://localhost:4000/catalogo</guid>
         
@@ -73,7 +73,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/feed.xml</link>
         <guid isPermaLink="true">http://localhost:4000/feed.xml</guid>
         
@@ -91,7 +91,7 @@
             Compra tratamientos naturales con Natural One Life. Asesórate gratis para entender cómo cuidarte naturalmente. Escríbenos o pide tu tratamiento.
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/</link>
         <guid isPermaLink="true">http://localhost:4000/</guid>
         
@@ -109,7 +109,7 @@
             Descubre nuestros tratamientos naturales con células madre. Productos científicamente probados que te ayudan a recuperar tu salud de forma natural y duradera.
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/promociones</link>
         <guid isPermaLink="true">http://localhost:4000/promociones</guid>
         
@@ -127,7 +127,7 @@
             En Natural One Life queremos regalarte guías, audios, videos, recomendaciones y más; para que cuides de tu salud. ¡Descárgalos!
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/regalos</link>
         <guid isPermaLink="true">http://localhost:4000/regalos</guid>
         
@@ -143,7 +143,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/search.json</link>
         <guid isPermaLink="true">http://localhost:4000/search.json</guid>
         
@@ -159,7 +159,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/sitemap.xml</link>
         <guid isPermaLink="true">http://localhost:4000/sitemap.xml</guid>
         
@@ -175,7 +175,7 @@
             
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/css/style.css</link>
         <guid isPermaLink="true">http://localhost:4000/css/style.css</guid>
         
@@ -193,7 +193,7 @@
             Recibe tratamientos naturales con células madre en la comodidad de tu hogar. Nuestros especialistas te asesoran personalmente para garantizar los mejores resultados.
           ]]>
         </description>
-        <pubDate>Thu, 23 Jan 2025 19:31:48 -0500</pubDate>
+        <pubDate>Thu, 23 Jan 2025 19:41:07 -0500</pubDate>
         <link>http://localhost:4000/visitas</link>
         <guid isPermaLink="true">http://localhost:4000/visitas</guid>
         
