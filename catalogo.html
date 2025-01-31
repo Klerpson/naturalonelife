@@ -12,6 +12,20 @@ intro: Encuentra los productos naturales que necesitas para mejorar tu salud y b
   <small>Catálogo de productos</small>
   <h2>Soluciones naturales para cada sistema de tu cuerpo</h2>
   <p>En Natural One Life nos especializamos en productos naturales de alta calidad para fortalecer y mantener saludable cada sistema de tu organismo. Nuestros productos están elaborados con materia prima 100% pura importada y cuentan con fórmulas patentadas para brindarte los mejores resultados.</p>
+  
+  <div class="descarga_catalogo">
+    <p class="descarga_texto">¿Prefieres revisar el catálogo más tarde?</p>
+    <a href="{{'docs/Catalogo-Natural-One-Life.pdf' | relative_url}}" 
+       class="boton boton_2" 
+       download="Catalogo_Natural_One_Life.pdf"
+       onclick="trackDownload()">
+       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+         <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+       </svg>
+       Descarga el catálogo en PDF
+    </a>
+  </div>
+
   <h3>Selecciona el sistema corporal que deseas tratar para ver los productos recomendados</h3>
   <div class="blog-tags">
     <button data-name="all" class="active">Todos los productos</button>
@@ -20,6 +34,7 @@ intro: Encuentra los productos naturales que necesitas para mejorar tu salud y b
     {% endfor %}
   </div>
 </section>
+
 <section class="posts">
   {% for categoria in site.data.catalogo %}
   <div class="post" data-name="{{ categoria[0] }}">
