@@ -29,7 +29,7 @@ Cualquier información proporcionada voluntariamente por usted a través de nues
 
 ## 5. Derechos de Propiedad Intelectual
 
-Todo el contenido de este sitio web, incluyendo textos, gráficos, logotipos, imágenes, así como la compilación de estos, es propiedad de Alejandro Argote Vega, director de la empresa en Pitalito, Huila, y está protegido por las leyes de derechos de autor.
+Todo el contenido de este sitio web, incluyendo textos, gráficos, logotipos, imágenes, así como la compilación de estos, es propiedad de Natural One Life y está protegido por las leyes de derechos de autor.
 
 ## 6. Garantías y Reclamos
 
@@ -45,7 +45,7 @@ Estos términos y condiciones se rigen por las leyes de Colombia. Cualquier disp
 
 ## 9. Registro Mercantil
 
-Número de registro en la Cámara de Comercio: En espera...
+Número de registro en la Cámara de Comercio: 1083917674-3
 
 Al utilizar este sitio web, usted acepta estos términos y condiciones en su totalidad. Si no está de acuerdo con estos términos y condiciones o cualquier parte de estos, no debe utilizar este sitio web.
 
