@@ -60,15 +60,15 @@ Musculos:
       - beneficio2: Ideal para personas que desean tonificar y marcar los músculos ya que es baja en grasas saturadas y calorías
       - beneficio3: Facilita la recuperación muscular después de entrenar
 
-  - img: img/catalogo/producto-sure-fib.avif
-    alt: Producto Sure Fib de Natural One Life
-    title: Producto Sure Fib de Natural One Life
-    titulo: Sure Fib
-    descripcion: Producto Sure Fib de Natural One Life
+  - img: img/catalogo/gulcim-producto.avif
+    alt: Producto GULCIM de Natural One Life
+    title: Producto GULCIM de Natural One Life
+    titulo: Gulcim
+    descripcion: Producto GULCIM de Natural One Life
     beneficios:
-      - beneficio1: Fibra especialmente diseñada para personas con problemas digestivos y de colon
-      - beneficio2: Ayuda a los movimientos peristálticos del intestino actuando como regulador digestivo
-      - beneficio3: Ayuda a bajar de peso de forma natural
+      - beneficio1: Ayuda a tratar dolores musculares  
+      - beneficio2: Contiene todas las vitaminas del complejo B
+      - beneficio3: Excelente multivitamínico para un buen desempeño físico 
 
 Sistema Digestivo:
   - img: img/catalogo/producto-klndola.avif
@@ -80,6 +80,36 @@ Sistema Digestivo:
       - beneficio1: Es un potente cicatrizante interno
       - beneficio2: Posee propiedades antiinflamatorias y antimicrobianas
       - beneficio3: Ayuda a la gastritis, colitis, golpes y contusiones
+
+  - img: img/catalogo/producto-hlsin.avif
+    alt: Producto Hlsin de Natural One Life
+    title: Producto Hlsin de Natural One Life
+    titulo: Hlsin
+    descripcion: Producto Hlsin de Natural One Life
+    beneficios:
+      - beneficio1: Excelente producto para estimular la función hepática y biliar 
+      - beneficio2: Limpia, protege y regenera el hígado
+      - beneficio3: Apto para diabéticos
+
+  - img: img/catalogo/producto-zazen.avif
+    alt: Producto Zazen de Natural One Life
+    title: Producto Zazen de Natural One Life
+    titulo: Zazen
+    descripcion: Producto Zazen de Natural One Life
+    beneficios:
+      - beneficio1: Excelente para bajar de peso de forma natural  
+      - beneficio2: Contiene enzimas digestivas que ayudan a descomponer las proteínas facilitando la digestión
+      - beneficio3: Tiene propiedades diuréticas que ayudan a eliminar los líquidos retenidos en el cuerpo
+
+  - img: img/catalogo/producto-sure-fib.avif
+    alt: Producto Sure Fib de Natural One Life
+    title: Producto Sure Fib de Natural One Life
+    titulo: Sure Fib
+    descripcion: Producto Sure Fib de Natural One Life
+    beneficios:
+      - beneficio1: Fibra especialmente diseñada para personas con problemas digestivos y de colon
+      - beneficio2: Ayuda a los movimientos peristálticos del intestino actuando como regulador digestivo
+      - beneficio3: Ayuda a bajar de peso de forma natural
 
   - img: img/catalogo/producto-rn-lit.avif
     alt: Producto RN-LIT de Natural One Life
@@ -120,6 +150,26 @@ Sistema Digestivo:
       - beneficio1: La fibra soluble de linaza impide acumulación de colesterol
       - beneficio2: Ayuda a bajar de peso naturalmente
       - beneficio3: Posee propiedades antioxidantes gracias al té verde
+
+  - img: img/catalogo/producto-acido-pantotenico.avif
+    alt: Producto Ácido Pantoténico de Natural One Life
+    title: Producto Ácido Pantoténico de Natural One Life
+    titulo: Ácido Pantoténico
+    descripcion: Producto Ácido Pantoténico de Natural One Life
+    beneficios:
+      - beneficio1: Excelente para combatir  trastornos metabólicos 
+      - beneficio2: Estimula la producción de energía y glóbulos rojos 
+      - beneficio3: Trata el estrés y la ansiedad
+
+  - img: img/catalogo/producto-garcinia.avif
+    alt: Producto Garcinia Cambogia de Natural One Life
+    title: Producto Garcinia Cambogia de Natural One Life
+    titulo: Garcinia Cambogia
+    descripcion: Producto Garcinia Cambogia de Natural One Life
+    beneficios:
+      - beneficio1: Ya que es un producto rico en ácido hidroxicítrico( compuesto natural) es excelente para acelerar el metabolismo de las grasas 
+      - beneficio2: Diseñado para personas con ansiedad a la hora de comer ya que tiene un efecto saciante 
+      - beneficio3: Ayuda a disminuir la producción y almacenamiento de las grasas procedentes del metabolismo tanto de los carbohidratos como de los  azúcares
 
 Sistema Circulatorio:
   - img: img/catalogo/producto-sngbl.avif
@@ -219,9 +269,9 @@ Sistema Urinario:
     titulo: NFRX
     descripcion: Producto NFRX de Natural One Life
     beneficios:
-      - beneficio1: Excelente coagulante sanguíneo natural que mejora la circulación
-      - beneficio2: Es un coayudante en caso de dolor en piernas y venas varices
-      - beneficio3: Combate toda clase de problemas vasculares
+      - beneficio1: Excelente diurético y desintoxicante sanguíneo
+      - beneficio2: Por sus potentes efectos antiinflamatorios es recomendado para enfermedades reumáticas
+      - beneficio3: Mejora la circulación de la sangre
 
 Sistema Inmunológico:
   - img: img/catalogo/producto-acido-ascorbico.avif
@@ -306,26 +356,6 @@ Sistema Linfático y Endocrino:
       - beneficio2: Fortalece el sistema inmune
       - beneficio3: Mejora la salud intestinal con probióticos
 
-  - img: img/catalogo/producto-zazen.avif
-    alt: Producto Zazen de Natural One Life
-    title: Producto Zazen de Natural One Life
-    titulo: Zazen
-    descripcion: Producto Zazen de Natural One Life
-    beneficios:
-      - beneficio1: Excelente para bajar de peso naturalmente
-      - beneficio2: Contiene enzimas digestivas que facilitan la digestión
-      - beneficio3: Tiene propiedades diuréticas que eliminan líquidos retenidos
-
-  - img: img/catalogo/producto-garcinia.avif
-    alt: Producto Garcinia Cambogia de Natural One Life
-    title: Producto Garcinia Cambogia de Natural One Life
-    titulo: Garcinia Cambogia
-    descripcion: Producto Garcinia Cambogia de Natural One Life
-    beneficios:
-      - beneficio1: Rica en ácido hidroxicítrico que acelera el metabolismo de grasas
-      - beneficio2: Efecto saciante que ayuda a controlar la ansiedad
-      - beneficio3: Transforma la grasa en energía aumentando resistencia
-
   - img: img/catalogo/producto-acido-folico.avif
     alt: Producto Ácido Fólico de Natural One Life
     title: Producto Ácido Fólico de Natural One Life
@@ -346,3 +376,44 @@ Sistema Celular:
       - beneficio1: Capacidad regenerativa y de renovación de tejidos
       - beneficio2: Versatilidad biológica para mantener vitalidad corporal
       - beneficio3: Potencial terapéutico para el bienestar general
+
+  - img: img/catalogo/producto-placenta.avif
+    alt: Producto Placenta de Natural One Life
+    title: Producto Placenta de Natural One Life
+    titulo: Placenta
+    descripcion: Producto Placenta de Natural One Life
+    beneficios:
+      - beneficio1: Colirio oftalmológico a base de embriones bovinos (células madre)
+      - beneficio2: Potente regenerador del nervio óptico
+      - beneficio3: Ideal  para casos de fijación de retina, catarata, pterigión  , conjuntivitis, glaucoma, astigmatismo entre muchas más enfermedades oculares 
+
+  - img: img/catalogo/producto-dermacell.avif
+    alt: Producto Dermacell de Natural One Life
+    title: Producto Dermacell de Natural One Life
+    titulo: Dermacell
+    descripcion: Producto Dermacell de Natural One Life
+    beneficios:
+      - beneficio1: Excelente crema dermatológica con  estratos placentarios de bovino (células madre) recomendada para regenerar las células muertas en la piel  y tratar  manchas , arrugas.
+      - beneficio2: Cicatrices ,problemas de acné, vitiligo entre otras afecciones de la piel 
+      - beneficio3: Beneficiosa para tratar quemaduras e irritaciones
+
+Sistema Respiratorio:
+  - img: img/catalogo/producto-plpnat.avif
+    alt: Producto Plpnat de Natural One Life
+    title: Producto Plpnat de Natural One Life
+    titulo: Plpnat
+    descripcion: Producto Plpnat de Natural One Life
+    beneficios:
+      - beneficio1: Excelente regenerador celular gracias a los embriones bovinos que contiene (celulas madre)
+      - beneficio2: Recomendado como expectorante y  casos de resfriados, gripas, asma bronquial y alergias
+      - beneficio3: Excelente producto para diabéticos , ya que se encarga de tratar la resistencia a la insulina y nutrir el organismo
+
+  - img: img/catalogo/producto-pro-nklit.avif
+    alt: Producto Pro-Nklit de Natural One Life
+    title: Producto Pro-Nklit de Natural One Life
+    titulo: Pro-Nklit
+    descripcion: Producto Pro-Nklit de Natural One Life
+    beneficios:
+      - beneficio1: Permite disminuir la viscosidad y luificar las secreciones 
+      - beneficio2: Facilita la expectoración permitiendo una sedación fisiológica y progresiva de la tos 
+      - beneficio3: Acción Bronco pulmonares o con secreciónes
