@@ -1,33 +1,184 @@
 ---
 layout: transaccional
-title: Regalos Digitales de Natural One Life para tu Salud
-description: "En Natural One Life queremos regalarte guías, audios, videos, recomendaciones y más; para que cuides de tu salud. ¡Descárgalos!"
-h1: Natural One Life te regala información vital para tu salud
-hero: img/regalos-natural-one-life.avif
-alt: Foto de el logo de Natural One Life envuelto en un regalo
-intro: Descarga y utiliza los archivos que tenemos para ti para que cuides de tu salud en casa.
+title: Sistemas del Cuerpo | Tratamientos Naturales con Células Madre
+description: "Descubre cómo nuestros tratamientos naturales con células madre actúan en cada sistema de tu cuerpo: muscular, óseo, circulatorio y más."
+h1: Tratamientos naturales especializados para cada sistema de tu cuerpo
+hero: img/sistemas-natural-one-life.avif
+alt: Tratamientos naturales para todos los sistemas del cuerpo
+intro: Conoce cómo nuestros tratamientos con células madre trabajan de manera integral en cada sistema de tu organismo
 ---
-<section class="intro_secciones flow">
-  <small>Regalos digitales</small>
-  <h2>Descarga archivos digitales para el cuidado de la salud</h2>
-  <p>Queremos compartir contigo herramientas valiosas que te ayudarán a mejorar tu salud naturalmente. Cada recurso ha sido creado pensando en brindarte soluciones prácticas y efectivas que puedas implementar desde casa.</p>
-</section> 
-<ul class="tarjeticas_articulos">
-  {% for regalo in site.data.regalos %}
-  <li>
-    <img src="{{ regalo.img | relative_url }}" alt="Lorem Ipsum" loading="lazy" width="148" height="148">
-    <h3>{{regalo.titulo}}</h3>
-    <p>{{regalo.p}}</p>
-    <a href="{{regalo.url}}" rel="nofollow noopener" class="boton boton_2">Descargar regalo</a>
-  </li>
-  {% endfor %}
-</ul>
+
+<main class="wrapper">
+  <div class="tarjeta">
+    <div>
+      <img src="{{'/img/celulas-madre-sistemas.avif' | relative_url}}" alt="Células madre y sistemas del cuerpo" loading="lazy" width="270" height="480">
+    </div>
+    <div class="flow">
+      <small>Cuidado integral</small>
+      <h2>Cada sistema de tu cuerpo merece atención especial</h2>
+      <p>En Natural One Life entendemos que tu cuerpo funciona como un todo integrado. Por eso, nuestros tratamientos están diseñados para fortalecer cada sistema de manera natural y efectiva.</p>
+      <hr>
+      <ul>
+        <li>
+          <span>7</span>
+          <small>Sistemas tratados</small>
+        </li>
+        <li>
+          <span>100%</span>
+          <small>Natural y seguro</small>
+        </li>
+        <li>
+          <span>+5000</span>
+          <small>Pacientes satisfechos</small>
+        </li>
+      </ul>
+    </div>
+  </div>
+</main>
+
+<section class="wrapper bg_secundario">
+  <div class="intro_secciones flow">
+    <small>Sistemas del cuerpo</small>
+    <h2>Soluciones naturales para cada sistema</h2>
+    <p>Cada sistema de tu cuerpo requiere un cuidado específico. Descubre nuestros tratamientos.</p>
+  </div>
+
+  <div class="tarjeta_dos_columnas">
+    <div class="beneficios_campo flow">
+      <h3>Beneficios especializados para cada sistema</h3>
+      
+      <div class="beneficios_grid">
+        <div class="beneficio_item">
+          <div class="beneficio_icono">
+            &#x1F4AA;
+          </div>
+          <div class="beneficio_contenido">
+            <h4>Sistema Muscular</h4>
+            <p>Reduce el dolor y mejora la recuperación muscular en un 70%</p>
+          </div>
+        </div>
+
+        <div class="beneficio_item">
+          <div class="beneficio_icono">
+            &#x1F9B4;
+          </div>
+          <div class="beneficio_contenido">
+            <h4>Sistema Óseo</h4>
+            <p>Fortalece huesos y mejora la movilidad articular</p>
+          </div>
+        </div>
+
+        <div class="beneficio_item">
+          <div class="beneficio_icono">
+            &#x1FA78;
+          </div>
+          <div class="beneficio_contenido">
+            <h4>Sistema Circulatorio</h4>
+            <p>Optimiza el flujo sanguíneo y la presión arterial</p>
+          </div>
+        </div>
+
+        <div class="beneficio_item">
+          <div class="beneficio_icono">
+            &#x1F9EC;
+          </div>
+          <div class="beneficio_contenido">
+            <h4>Sistema Inmune</h4>
+            <p>Aumenta las defensas y previene enfermedades</p>
+          </div>
+        </div>
+      </div>
+
+      <a href="#" id="lead_whatsapp" class="boton boton_1" title="Programa tu consulta">🌿 Programa tu consulta</a>
+    </div>
+
+    <div class="imagen_campo">
+      <img src="{{'img/sistemas-cuerpo-natural-one-life.avif' | relative_url}}" 
+           alt="Sistemas del cuerpo tratados con células madre" 
+           loading="lazy" 
+           width="496" 
+           height="496">
+    </div>
+  </div>
+</section>
+
+<section class="wrapper">
+  <div class="intro_secciones flow">
+    <small>Tratamientos destacados</small>
+    <h2>Soluciones naturales para cada necesidad</h2>
+    <p>Nuestros productos más efectivos para el cuidado integral de tu salud</p>
+  </div>
+  
+  <ul class="tarjeticas_articulos">
+    <li itemscope itemtype="https://schema.org/Product">
+      <img src="{{'img/celulas-madre-producto-natural.avif' | relative_url }}" alt="Células Madre NOL" loading="lazy" width="148" height="148">
+      <h3 itemprop="name">Células Madre NOL</h3>
+      <p itemprop="description">Regeneración celular avanzada que activa y estimula las células madre de tu cuerpo</p>
+    </li>
+    <li itemscope itemtype="https://schema.org/Product">
+      <img src="{{'img/colageno-producto-natural-one-life.avif' | relative_url }}" alt="Colágeno Natural" loading="lazy" width="148" height="148">
+      <h3 itemprop="name">Colágeno</h3>
+      <p itemprop="description">Fortalece huesos y articulaciones, mejora la elasticidad de la piel</p>
+    </li>
+    <li itemscope itemtype="https://schema.org/Product">
+      <img src="{{'img/piridoxina-producto-natural-one-life.avif' | relative_url }}" alt="Piridoxina Natural" loading="lazy" width="148" height="148">
+      <h3 itemprop="name">Piridoxina</h3>
+      <p itemprop="description">Optimiza los niveles de energía y ayuda a mantener un sistema nervioso saludable</p>
+    </li>
+  </ul>
+</section>
+
+<section class="wrapper">
+  <div class="intro_secciones flow">
+    <small>Preguntas frecuentes</small>
+    <h2>Todo lo que necesitas saber sobre nuestros tratamientos</h2>
+    <p>Resolvemos tus dudas sobre los tratamientos para cada sistema del cuerpo</p>
+  </div>
+
+  <div class="faqs">
+    <div class="faq-container">
+      <details class="faq-item">
+        <summary class="faq-question">¿Cómo actúan las células madre en cada sistema?</summary>
+        <div class="faq-answer">
+          Las células madre tienen la capacidad única de regenerar diferentes tipos de tejidos. En cada sistema, estimulan la regeneración natural: en músculos reparan fibras, en huesos mejoran densidad, en el sistema circulatorio optimizan el flujo sanguíneo.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-question">¿Cuánto tiempo tardaré en ver resultados?</summary>
+        <div class="faq-answer">
+          Los resultados varían según el sistema tratado. Por lo general, verás mejoras desde la primera semana, con resultados óptimos entre 2-3 semanas de tratamiento continuo.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-question">¿Los tratamientos son permanentes?</summary>
+        <div class="faq-answer">
+          Los efectos son duraderos gracias a la regeneración celular. Sin embargo, recomendamos mantener ciclos de tratamiento para optimizar y mantener los resultados a largo plazo.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-question">¿Puedo combinar tratamientos de diferentes sistemas?</summary>
+        <div class="faq-answer">
+          Sí, nuestros tratamientos están diseñados para trabajar en sinergia. De hecho, muchos pacientes obtienen mejores resultados al tratar varios sistemas simultáneamente.
+        </div>
+      </details>
+
+      <details class="faq-item">
+        <summary class="faq-question">¿Los tratamientos tienen efectos secundarios?</summary>
+        <div class="faq-answer">
+          No. Al ser 100% naturales y trabajar con las propias células madre del cuerpo, nuestros tratamientos no producen efectos secundarios adversos.
+        </div>
+      </details>
+    </div>
+  </div>
+</section>
 
 {% include cta.html 
-  title="¿Necesitas ayuda para implementar estos consejos?"
-  description="Sabemos que a veces puede ser abrumador comenzar un nuevo camino hacia la salud natural. Por eso, además de estos recursos gratuitos, ofrecemos asesoría personalizada para guiarte paso a paso."
-  description2="Agenda una consulta gratuita y descubre cómo podemos ayudarte a alcanzar tu mejor versión de salud con métodos naturales y probados."
-  image1="img/ofertas-medicina-natural.avif"
-  image2="img/celulas-madre-medicina-natural.avif"
-
+  title="¿Listo para transformar tu salud?"
+  description="Nuestros especialistas están listos para ayudarte a elegir el tratamiento ideal según tus necesidades específicas."
+  description2="Agenda una consulta gratuita y descubre cómo nuestros tratamientos naturales pueden mejorar tu calidad de vida."
+  image1="img/natural-one-life-medico.avif"
+  image2="img/acompañamiento-natural.avif"
 %}
